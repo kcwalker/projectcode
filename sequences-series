@@ -4,7 +4,7 @@
       <h1 style="color: green">Sequences and Series</h1>
     </head>
     <body>
-      <p> What is a sequnce?</p>
+      <p> What is a sequence?</p>
       <p> A sequence is a list of numbers that follow a specific order. 
       Each number is called a term and the final term is the nth term 
       of the sequence. A sequence will begin a<sub>0</sub>, a<sub>1</sub>,
