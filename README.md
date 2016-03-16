@@ -5,12 +5,13 @@ Project_code NYPL final project
   <head>
     <title><h1>Polynomial Functions</h1></title>
   </head>
-  <body style="background-color:#03AB22">
-    <p>A polynomial function is a function in a<sub>0</sub>x<sup>n</sup>, where a is not 0 and all
+  <body>
+  <script>
+    <p>A polynomial function is a function in which a<sub>x</sub>x<sup>n</sup>+ where a<sub>x-1</sub>x<sup> is not 0 and all
     powers are positive integers.</p> 
   
   
   
-  
+  </script>
   </body>
 </html>
